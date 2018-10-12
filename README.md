@@ -7,6 +7,7 @@ solr版本是4.4的，
 依赖都在pom里面。
 
 依赖的包如下图所示：
+
 ![](screenshots/denpendency_jar.png)
 
 
