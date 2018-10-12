@@ -1,0 +1,5 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.js linguist-language=java
+*.css linguist-language=java
+*.html linguist-language=java
+*.java linguist-language=java
